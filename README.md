@@ -1,3 +1,3 @@
 # word_cloud
-### Here you can see how the word cloud looks like:
-![word]https://github.com/AshishGoyal27/word_cloud/blob/main/word_cloud/word_cloud.png
+### In this code we can make a word cloud using some csv file and  below you can see how the word cloud looks like:
+![word_cloud](https://user-images.githubusercontent.com/49943219/110286017-33156300-800a-11eb-9816-9f8456b41bb5.png)
